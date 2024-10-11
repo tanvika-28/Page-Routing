@@ -1,0 +1,12 @@
+
+ul{
+    list-style-type: none;
+    background-color: rgb(192, 204, 27);
+    
+}
+
+ul li{
+    
+    display: inline-block;
+    padding:10px;
+}
